@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerviewInsideRecyc_NestedRv</string>
+    <string name="showAllLabel">Show All</string>
+</resources>
